@@ -16,7 +16,7 @@
   
  ##  
 
-<div style="display: inline_block"><br>
+<!--div style="display: inline_block"><br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png" alt="mysql" width="50" height="40"/> </a>
@@ -46,7 +46,7 @@
 </a>
 </a>
 
-</div>
+</div-->
   
   ##
  
