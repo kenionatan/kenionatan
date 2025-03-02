@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kenio</h1>
 
-- 🔭 I’m currently working with PHP, Yii, Laravel, Javascript, jQuery and ReactJS.
+- 🔭 I’m currently working with ReactJS, NextJS (Typescript), PHP (Laravel/Yii), Python and Java.
 
-- 🌱 I’m currently learning **VueJS and NextJS**
+- 🌱 I’m currently improving my knowledge in **SOLID**
 
 - 📫 How to reach me **kenionatan@gmail.com**
 
