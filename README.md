@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kenio</h1>
 
-- 🔭 I’m currently working with ReactJS, NextJS (Typescript), PHP (Laravel/Yii), Python and Java.
+- 🔭 I’m currently working with **ReactJS, NextJS (Typescript), PHP (Laravel/Yii), Python and Java**.
 
 - 🌱 I’m currently improving my knowledge in **SOLID**
 
